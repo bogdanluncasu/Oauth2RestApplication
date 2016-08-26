@@ -1,1 +1,2 @@
-web: sh target/bin/webapp
+web: sh target/SpringHibernate.war
+web: ls

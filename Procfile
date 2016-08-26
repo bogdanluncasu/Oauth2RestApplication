@@ -1,2 +1,2 @@
-web: sh target/SpringHibernate.war
-web2: ls
+qweb: echo "HELLO WORLD"
+web: ls
